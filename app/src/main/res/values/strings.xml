@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Ramrati Singh Balika Inter College</string>
+    <string name="button">About Us</string>
+    <string name="button2">Courses</string>
+    <string name="button3">Contact</string>
+    <string name="button4">Photos</string>
+
+    <string name="paragraph">
+        Ramrati Singh Balika Inter College is founded in 1996. It is established in Raghunath Nagar,
+        Karanchhapra, Ballia, Uttar Pradesh. We offer admissions in class 6th to class 12th including
+        Science stream in class 12th (Intermediate) to both boys and girls. Ramrati Singh Balika
+        Inter College was the first Inter College in the area which was exclusively for girls. Now, we offer admissions to both
+        boys and girls.
+    </string>
+
+    <string name="courses">
+        <b>Courses offered by us-:</b>
+    </string>
+
+    <string name="course1">
+        (1) Class 6
+    </string>
+
+    <string name="course2">
+        (2) Class 7
+    </string>
+
+    <string name="course3">
+        (3) Class 8
+    </string>
+
+    <string name="course4">
+        (4) High School (i.e. Class 9 and Class 10)
+    </string>
+
+    <string name="course5">
+        (5) Intermediate (i.e. Class 11 and 12)
+    </string>
+
+    <string name="course6">
+        (a) Science stream
+    </string>
+
+    <string name="course7">
+         (i) with Maths and
+    </string>
+
+    <string name="course8">
+        (ii) with Biology
+    </string>
+
+    <string name="course9">
+        (b) Arts stream
+    </string>
+
+    <string name="contacts">
+        Contact us :
+    </string>
+
+    <string name="contact1">
+        <b>Mobile No. :</b>  <i>9810739882</i>
+    </string>
+
+    <string name="contact2">
+       <b> Email :</b> <i>rudraceo19@gmail.com</i>
+    </string>
+
+    <string name="contact3">
+        <b>Facebook :</b>  <i>https://www.facebook.com/ramratisinghgic/</i>
+    </string>
+    <string name="todo">TODO</string>
+</resources>
