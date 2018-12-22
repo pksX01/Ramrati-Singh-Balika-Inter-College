@@ -3,6 +3,7 @@ package com.example.rudra.ramratisinghbalikaintercollege;
 import android.content.Intent;
 //import android.provider.Contacts;
 import android.graphics.drawable.Drawable;
+import android.net.Uri;
 import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -20,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Toolbar my_toolbar1=(Toolbar) findViewById(R.id.my_toolbar1);
         setSupportActionBar(my_toolbar1);
-        getSupportActionBar().setTitle(fromHtml("<font color='#ffffff'>R.S.G.I.C.</font>"));
+        getSupportActionBar().setTitle(fromHtml("<font color='#ffffff'>RSGIC-Ramrati Singh Balika Inter College</font>"));
 
     }
 
@@ -39,5 +40,11 @@ public class MainActivity extends AppCompatActivity {
     public void photos(View view){
         Intent intent=new Intent(MainActivity.this,photos.class);
         startActivity(intent);
+    }
+    public void apply(View view){
+        Uri uri = Uri.parse("https://goo.gl/forms/Pr4wbXMGFH7V5lfh1");
+        Intent intent = new Intent(Intent.ACTION_VIEW, uri);
+        startActivity(intent);
+
     }
 }
