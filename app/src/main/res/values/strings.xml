@@ -15,44 +15,56 @@
         <b> <i>NIOS (National Institute of Open Schooling) has accredited our school as study centre for D.El.Ed.</i></b>
     </string>
 
-    <string name="courses">
-        <b>Courses offered by us-:</b>
+    <string name="reg_courses">
+        <b>Regular Courses-:</b>
+    </string>
+
+    <string name="spcl_courses">
+        <b>Special Courses -:</b>
+    </string>
+
+    <string name="spcl_courses1">
+        <b> (1) Certification in Yoga </b>
+    </string>
+
+    <string name="spcl_courses2">
+        <b>(2) Certification in Bombay Art </b>
     </string>
 
     <string name="course1">
-        (1) Class 6
+        <b>(1) Class 6 </b>
     </string>
 
     <string name="course2">
-        (2) Class 7
+       <b>(2) Class 7</b>
     </string>
 
     <string name="course3">
-        (3) Class 8
+        <b>(3) Class 8 </b>
     </string>
 
     <string name="course4">
-        (4) High School (i.e. Class 9 and Class 10)
+        <b>(4) High School (i.e. Class 9 and Class 10)</b>
     </string>
 
     <string name="course5">
-        (5) Intermediate (i.e. Class 11 and 12)
+        <b>(5) Intermediate (i.e. Class 11 and 12)</b>
     </string>
 
     <string name="course6">
-        (a) Science stream
+       <b>(a) Science stream</b>
     </string>
 
     <string name="course7">
-         (i) with Maths and
+        <b>(i) with Maths and</b>
     </string>
 
     <string name="course8">
-        (ii) with Biology
+        <b>(ii) with Biology</b>
     </string>
 
     <string name="course9">
-        (b) Arts stream
+        <b>(b) Arts stream</b>
     </string>
 
     <string name="contacts">
@@ -64,7 +76,7 @@
     </string>
 
     <string name="contact2">
-       <b> Email :</b> <i>ramratisinghgic@gmail.com</i>
+       <b> Email :</b> <i>ramratisinghbalikaintercollege@gmail.com</i>
     </string>
 
     <string name="contact3">
@@ -73,6 +85,10 @@
 
     <string name="contact4">
         <b>Instagram :</b> https://www.instagram.com/ramrati_singh_inter_college/
+    </string>
+
+    <string name="contact5">
+        <b>Website :</b> https://ramratisinghcollege.wixsite.com/balikaintercollege
     </string>
     <string name="todo">TODO</string>
 </resources>
